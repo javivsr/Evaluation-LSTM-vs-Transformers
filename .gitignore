@@ -1,0 +1,15 @@
+# Python & Jupyter cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+
+# PyTorch / TensorFlow Model Checkpoints & Weights
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Output logs
+*.log
