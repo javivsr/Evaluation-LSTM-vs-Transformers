@@ -126,6 +126,7 @@ jupyter notebook ML_Neural_Calculator_Project.ipynb
 ## Repository structure
 
 ML_Neural_Calculator_Project.ipynb   # data generation, training and evaluation pipeline
+
 requirements.txt                     # dependencies
 
 
