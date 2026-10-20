@@ -122,7 +122,7 @@ git clone [github.com](https://github.com/javivsr/Evaluation-LSTM-vs-Transformer
 cd Evaluation-LSTM-vs-Transformers
 pip install -r requirements.txt
 jupyter notebook ML_Neural_Calculator_Project.ipynb
-
+```
 ## Repository structure
 
 ML_Neural_Calculator_Project.ipynb   # data generation, training and evaluation pipeline
