@@ -122,3 +122,22 @@ git clone [github.com](https://github.com/javivsr/Evaluation-LSTM-vs-Transformer
 cd Evaluation-LSTM-vs-Transformers
 pip install -r requirements.txt
 jupyter notebook ML_Neural_Calculator_Project.ipynb
+
+## Repository structure
+
+ML_Neural_Calculator_Project.ipynb   # data generation, training and evaluation pipeline
+requirements.txt                     # dependencies
+
+
+## Context
+
+Final project for the Machine Learning 2025/26 course, Full Practical Track, during the Erasmus+ exchange year at Alma Mater Studiorum – Università di Bologna.
+
+Authors: Javier Vaca, Gabriele Toro, Marcos García.
+
+My contribution: design of both model architectures, the overall training procedure, hyperparameter tuning, and the LaTeX report — including the extrapolation analysis and experimental comparison as a team effort.
+
+## References
+- Hochreiter & Schmidhuber, Long Short-Term Memory, Neural Computation, 1997
+- Vaswani et al., Attention Is All You Need, NeurIPS, 2017
+- Trask et al., Neural Arithmetic Logic Units, NeurIPS, 2018
